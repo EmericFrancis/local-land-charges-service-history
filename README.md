@@ -1,21 +1,28 @@
-Service History Blank Template
-===========================================
+Local Land Charges Service History
+==========================================
+[https://landregistry.github.io/local-land-charges-service-history/](https://landregistry.github.io/template-service-history/)
 
-Browse screenshots of a GOV.UK service, organised by time and user scenario.
+Browse screenshots of the local land charges and see the history of the prototype.
 
-[https://landregistry.github.io/template-service-history/](https://landregistry.github.io/template-service-history/)
+## What is a Local Land Charge (LLC)?
 
-You can view different sets of screenshots for each moment in time, zoom in and out of them or step through them in order.
+A LLC is a restriction or a prohibition on a parcel of land, either to secure the payment of a sum of money or to limit the use to which the land may be put. They are binding on successive owners of the land.
 
+### How are they created?
 
-## Running this app locally
+They are created by are large number of different pieces of legislation (separate acts). Most are created by Local Authorities (LA) but outside bodies such as English Heritage, Coal Authorities, create LLCs and send them to LAs for registration.
 
-The app is very simple and doesn't require anything to be installed or run in a terminal. Just open the index.html file in the root folder. It works especially well in Chrome's presentation mode. Your mileage may vary in other browsers.
+### Who currently keeps the LLC register?
 
+There are 348 Local Authorities (LA) in England and Wales.Each LA has a statutory duty to keep a Local Land Charges register and provide a search service.
 
 ## How to contribute
 
 If you work on this service and want to add or update screenshots of it please go ahead. Pull requests are the best way. You'll need to know how to use Git and how to edit very simple data files.
+
+### Running this app locally
+
+The app is very simple and doesn't require anything to be installed or run in a terminal. Just open the index.html file in the root folder. It works especially well in Chrome's presentation mode. Your mileage may vary in other browsers.
 
 ### Capturing screenshots
 
@@ -48,6 +55,6 @@ This tool is based on (and code cloned from) GDS Exemplar screens repo.
 
 ### Code History
 
-* https://github.com/AndyPorter/exemplar-screens (code cloned from)
+* https://github.com/AndyPorter/exemplar-screens
 * https://github.com/claragt/exemplar-screens
 * https://github.com/alphagov/exemplar-screens
